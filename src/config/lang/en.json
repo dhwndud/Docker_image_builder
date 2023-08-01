@@ -1,0 +1,55 @@
+{
+  "total": "Total",
+  "menu": {
+    "agent": "Agent",
+    "procedure": "Procedure",
+    "scenario": "Scenario",
+    "list": "List",
+    "result": "Result",
+    "sample": "Sample"
+  },
+  "button": {
+    "ok": "OK",
+    "close": "Close",
+    "new": "New",
+    "refresh": "Refresh",
+    "copy": "Copy"
+  },
+  "account": {
+    "signin": "Sign in",
+    "signout": "Sign out",
+    "change_password": "Change password",
+    "confirm_signout": "Do you want to sign out?"
+  },
+  "signin": {
+    "email": "Email",
+    "placeholder_email": "Input Email",
+    "password": "Password",
+    "placeholder_password": "Input Password",
+    "require_field": "ID / Password are required."
+  },
+  "agent": {
+    "cols": {
+      "id": "ID",
+      "host_name": "HostName",
+      "platform": "Platform",
+      "pid": "PID",
+      "is_elevated": "Privilege",
+      "status": "Status",
+      "host_ip": "IP",
+      "version": "Version",
+      "timestamp": "Last Session"
+    },
+    "new": {
+      "title": "Deploy an Cheiron Agent",
+      "paste_windows": "Paste the below command in powershell and run it",
+      "paste_linux": "Paste the below command in bash/sh and run it",
+      "windows": "Windows",
+      "linux": "Linux",
+      "unix": "Unix"
+    }
+  },
+  "validation": {
+    "required": "must be required."
+  }
+}
